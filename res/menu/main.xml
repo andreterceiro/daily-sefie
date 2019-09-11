@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.terceiro.dailyself.MainActivity" >
+
+    <item
+        android:id="@+id/action_camera"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_camera"
+        android:title="@string/action_camera"/>
+
+</menu>

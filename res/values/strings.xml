@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DailySelfie</string>
+    <string name="action_camera">Take a selfie</string>
+    <string name="album_name">DailySelfie</string>    
+    <string name="show_image_label">Image details</string>
+</resources>
